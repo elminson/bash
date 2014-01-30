@@ -10,7 +10,7 @@ echo "upgrade"
 sleep 1
 echo "set TFTP"
 sleep 1
-echo "set 192.168.1.149"
+echo "set URL 192.168.1.149"
 echo "commit"
 sleep 1
 echo "exit"
